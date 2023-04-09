@@ -1,0 +1,4 @@
+This is my first text file in the GIT folder.
+I hope that file will be not the first and the last file in that directory.
+The GIT derectory will be full of differnt files. I really hope that It will be true!
+Lets code!:)
